@@ -3,9 +3,7 @@
 
 - 🔭 Atualmente trabalho como operador de controle industrial [Viver trabalhando com o PC](https://www.ipirangaagroindustrial.com.br/)
 
-- 🌱 Atualmente estou aprendendo **Python e C#**
-
-- 👯 Faço vídeo dos meus momentos em alguns jogos [Canal Youtube](https:// www.youtube.com/@San-jp9gt)
+- 🌱 Desenvolvimento em **Python e C#** iniciante 
 
 - 💬 Me pergunte sobre **SQL, Python, Google Data Studio, Power BI, Excel**
 
