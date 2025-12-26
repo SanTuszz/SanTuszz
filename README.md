@@ -9,7 +9,7 @@
 
 - 💬 Me pergunte sobre **SQL, Python, Google Data Studio, Power BI, Excel**
 
-- 📫 Você me acha através do email **uramecheddtank@gmail.com**
+- 📫 Você me acha através do email **douglasrobertsantos2000@hotmail.com**
 
 - 📄 Aqui está um pouco sobre meu aprendizado [https://www.linkedin.com/in/douglas-santos-60803a281/](https://www.linkedin.com/in/douglas-santos-60803a281/)
 
