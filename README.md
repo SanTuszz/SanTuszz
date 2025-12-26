@@ -1,7 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou Douglas Santos </h1>
 <h3 align="center">Apaixonado por Carros e amante do mundo digital</h3>
 
-- 🔭 Atualmente trabalho como operador de controle industrial [Viver trabalhando com o PC]
 
 - 🌱 Desenvolvimento em **Python e C#** iniciante 
 
