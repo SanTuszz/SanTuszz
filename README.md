@@ -1,37 +1,67 @@
-<h1 align="center">Oi 👋, Eu sou Douglas Santos </h1>
-<h3 align="center">Apaixonado por Carros e amante do mundo digital</h3>
+# 👋 Olá, eu sou o Douglas Santos
 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🐍 Desenvolvedor iniciante com foco em Python  
+🚀 Em constante aprendizado e construção de projetos práticos para portfólio
 
-- 🌱 Desenvolvimento em **Python e C#** iniciante 
+---
 
-- 💬 Me pergunte sobre **SQL, Python, Google Data Studio, Power BI, Excel**
+## 🧑‍💻 Sobre mim
 
-- 📫 Você me acha através do email **douglasrobertsantos2000@hotmail.com**
+Sou apaixonado por tecnologia e estou migrando para a área de desenvolvimento.
+Atualmente estudo programação com foco em **Python**, criando projetos simples e funcionais
+para evoluir minha lógica, organização de código e uso do Git/GitHub.
 
-- 📄 Aqui está um pouco sobre meu aprendizado [https://www.linkedin.com/in/douglas-santos-60803a281/](https://www.linkedin.com/in/douglas-santos-60803a281/)
+Busco minha **primeira oportunidade na área de TI**, como desenvolvedor júnior ou estagiário.
 
-<h3 align="left">Conecte-se com eu:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/sann no youtube" target="blank"><img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="não para youtube" height="30" width=" 40" /></a>
-</p>
+---
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.cprogramming.com /" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width=" 40" altura="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw .githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" largura="40" altura="40"/> </a> <a href="https:/ /www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" largura="40" altura="40"/> </a> </p>
+## 🛠 Tecnologias & Ferramentas
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santuszz&show_icons=true&locale=en&layout=compact" alt=" santuszz" /></p>
+- Python  
+- Lógica de Programação  
+- Git & GitHub  
+- JSON  
+- CSV  
+- Terminal / CLI  
 
+---
 
+## 📂 Meus principais projetos
 
-<!---
-- 👋 Hi, I’m @SanTuszz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📦 Controle de Estoque em Python
+Sistema simples para gerenciamento de estoque com cadastro, listagem e remoção de produtos.
 
+🔗 https://github.com/SanTuszz/controle-estoque-python
 
-SanTuszz/SanTuszz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 💸 Controle Financeiro em Python
+Aplicação de controle financeiro pessoal com entradas, saídas e dados salvos em JSON.
+
+🔗 https://github.com/SanTuszz/controle-financeiro-python
+
+---
+
+### 📋 To-Do List em Python
+Lista de tarefas em terminal com opção de adicionar, listar e concluir tarefas.
+
+🔗 https://github.com/SanTuszz/todo-list-python
+
+---
+
+## 📈 Objetivo
+
+Continuar evoluindo em Python, aprender frameworks e boas práticas,
+e conquistar minha primeira vaga como desenvolvedor.
+
+---
+
+## 📫 Onde me encontrar
+
+- 💼 LinkedIn: https://www.linkedin.com/in/douglasrobertsantoss/
+- 💻 GitHub: https://github.com/SanTuszz
+
+---
+
+⭐ Obrigado por visitar meu perfil!
