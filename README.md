@@ -43,7 +43,7 @@ Aplicação de controle financeiro pessoal com entradas, saídas e dados salvos 
 
 ---
 
-### 📋 To-Do List em Python
+### 📋 Gerenciador de Tarefas em Python
 Lista de tarefas em terminal com opção de adicionar, listar e concluir tarefas.
 
 🔗 https://github.com/SanTuszz/todo-list-python
