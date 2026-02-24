@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Douglas%20Santos&fontSize=40&fontColor=ffffff" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Douglas%20Santos&fontSize=40&fontColor=ffffff" />
 
 # 👋 E aí! Eu sou o Douglas Santos
 
