@@ -1,67 +1,57 @@
-# 👋 Olá, eu sou o Douglas Santos
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Douglas%20Santos&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Douglas%20Santos&fontSize=40&fontColor=ffffff" />
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🐍 Desenvolvedor iniciante com foco em Python  
-🚀 Em constante aprendizado e construção de projetos práticos para portfólio
+# 👋 E aí! Eu sou o Douglas Santos
 
----
-
-## 🧑‍💻 Sobre mim
-
-Sou apaixonado por tecnologia e estou migrando para a área de desenvolvimento.
-Atualmente estudo programação com foco em **Python**, criando projetos simples e funcionais
-para evoluir minha lógica, organização de código e uso do Git/GitHub.
-
-Busco minha **primeira oportunidade na área de TI**, como desenvolvedor júnior ou estagiário.
+🎯 Em transição para a área de **Tecnologia / Sistemas e Automações com IA**  
+💻 Criação de **APIs**, **automações de processos** e sistemas web  
+📚 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
-
+## 🚀 Tecnologias & Habilidades
 - Python  
+- JavaScript / Node.js  
+- Criação de APIs REST  
+- Automações de processos  
 - Lógica de Programação  
 - Git & GitHub  
-- JSON  
-- CSV  
+- JSON / CSV  
 - Terminal / CLI  
 
 ---
 
-## 📂 Meus principais projetos
+## ⭐ Projetos em destaque
 
-### 📦 Controle de Estoque em Python
-Sistema simples para gerenciamento de estoque com cadastro, listagem e remoção de produtos.
-
-🔗 https://github.com/SanTuszz/controle-estoque-python
-
----
-
-### 💸 Controle Financeiro em Python
-Aplicação de controle financeiro pessoal com entradas, saídas e dados salvos em JSON.
-
-🔗 https://github.com/SanTuszz/controle-financeiro-python
+### 📦 Pedidos - Automação (Node.js + Front)
+Sistema de pedidos com API em Node.js e painel web para gerenciar pedidos.  
+🔗 https://github.com/SanTuszZ/pedidos-automacao  
 
 ---
 
-### 📋 Gerenciador de Tarefas em Python
-Lista de tarefas em terminal com opção de adicionar, listar e concluir tarefas.
-
-🔗 https://github.com/SanTuszz/todo-list-python
-
----
-
-## 📈 Objetivo
-
-Continuar evoluindo em Python, aprender frameworks e boas práticas,
-e conquistar minha primeira vaga como desenvolvedor.
+### 📊 Controle de Estoque em Python  
+Sistema simples para gerenciamento de estoque (CRUD no terminal).  
+🔗 https://github.com/SanTuszZ/controle-estoque-python  
 
 ---
 
-## 📫 Onde me encontrar
-
-- 💼 LinkedIn: https://www.linkedin.com/in/douglasrobertsantoss/
-- 💻 GitHub: https://github.com/SanTuszz
+### 💰 Controle Financeiro em Python  
+Aplicação de controle financeiro pessoal com entradas, saídas e dados em JSON.  
+🔗 https://github.com/SanTuszZ/controle-financeiro-python  
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+### ✅ Gerenciador de Tarefas em Python  
+Lista de tarefas no terminal com adicionar, listar e concluir tarefas.  
+🔗 https://github.com/SanTuszZ/todo-list-python  
+
+---
+
+## 📫 Contato
+📧 douglasrobertsantos2000@hotmail.com  
+📲 19 998295501
+💼 GitHub: https://github.com/SanTuszZ  
+
+---
+
+> 🚀 Focado em **sistemas, APIs e automações com IA**. 
