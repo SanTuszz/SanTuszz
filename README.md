@@ -10,7 +10,8 @@
 
 ## 🚀 Tecnologias & Habilidades
 - Python  
-- JavaScript / Node.js  
+- JavaScript / Node.js
+- Java / jr 
 - Criação de APIs REST  
 - Automações de processos  
 - Lógica de Programação  
