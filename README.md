@@ -2,56 +2,80 @@
 
 # 👋 E aí! Eu sou o Douglas Santos
 
-🎯 Em transição para a área de **Tecnologia / Sistemas e Automações com IA**  
-💻 Criação de **APIs**, **automações de processos** e sistemas web  
-📚 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+🎯 Desenvolvedor Backend em formação | Java • Spring Boot • APIs REST  
+💻 Experiência com desenvolvimento de APIs, automações e sistemas  
+📚 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
 
 ---
 
 ## 🚀 Tecnologias & Habilidades
+
+- Java (Spring Boot)  
+- Node.js (Express)  
 - Python  
-- JavaScript / Node.js
-- Java / jr 
-- Criação de APIs REST  
-- Automações de processos  
-- Lógica de Programação  
+- APIs REST  
+- SQL / H2 Database  
 - Git & GitHub  
-- JSON / CSV  
-- Terminal / CLI  
+- Lógica de Programação  
+- Noções de Redes e Suporte Técnico  
 
 ---
 
 ## ⭐ Projetos em destaque
 
-### 📦 Pedidos - Automação (Node.js + Front)
-Sistema de pedidos com API em Node.js e painel web para gerenciar pedidos.  
-🔗 https://github.com/SanTuszZ/pedidos-automacao  
+### 🚚 Smart Delivery API (Java + Spring Boot)
+Sistema de entrega inteligente com seleção de entregadores baseada em localização.  
+
+🔗 https://github.com/SanTuszz/smart-delivery-api  
+
+✔ API REST com Java e Spring Boot  
+✔ Estrutura em camadas (Controller, Service, Repository)  
+✔ Integração com banco H2  
+✔ Lógica de seleção inteligente de entregadores  
 
 ---
 
-### 📊 Controle de Estoque em Python  
-Sistema simples para gerenciamento de estoque (CRUD no terminal).  
-🔗 https://github.com/SanTuszZ/controle-estoque-python  
+### 📦 API de Pedidos (Node.js)
+Sistema de pedidos com API em Node.js.  
+
+🔗 https://github.com/SanTuszz/api-pedidos  
+
+✔ Criação e listagem de pedidos  
+✔ Estrutura backend com Express  
+✔ Organização de rotas  
 
 ---
 
-### 💰 Controle Financeiro em Python  
-Aplicação de controle financeiro pessoal com entradas, saídas e dados em JSON.  
-🔗 https://github.com/SanTuszZ/controle-financeiro-python  
+### 📊 Projetos em Python
+
+🔗 Controle de Estoque  
+https://github.com/SanTuszz/controle-estoque-python  
+
+🔗 Controle Financeiro  
+https://github.com/SanTuszz/controle-financeiro-python  
+
+🔗 Gerenciador de Tarefas  
+https://github.com/SanTuszz/todo-list-python  
 
 ---
 
-### ✅ Gerenciador de Tarefas em Python  
-Lista de tarefas no terminal com adicionar, listar e concluir tarefas.  
-🔗 https://github.com/SanTuszZ/todo-list-python  
+## 💼 Objetivo
+
+Busco minha primeira oportunidade na área de tecnologia como:
+
+- Desenvolvedor Backend Júnior  
+- Suporte Técnico / Help Desk  
+- Analista de Testes (QA)  
 
 ---
 
 ## 📫 Contato
+
 📧 douglasrobertsantos2000@hotmail.com  
-📲 19 998295501
-💼 GitHub: https://github.com/SanTuszZ  
+🌐 https://www.linkedin.com/in/douglasrobertsantoss/
+📲 +55 19 99829-5501  
+💼 GitHub: https://github.com/SanTuszz  
 
 ---
 
-> 🚀 Focado em **sistemas, APIs e automações com IA**.
+> 🚀 Focado em backend, APIs e crescimento constante na área de tecnologia.
