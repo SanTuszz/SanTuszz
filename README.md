@@ -2,80 +2,99 @@
 
 # 👋 E aí! Eu sou o Douglas Santos
 
-🎯 Desenvolvedor Backend em formação | Java • Spring Boot • APIs REST  
-💻 Experiência com desenvolvimento de APIs, automações e sistemas  
-📚 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+💻 Desenvolvedor Backend em formação  
+🚀 Focado em Java • Spring Boot • APIs REST  
+📚 Estudante de Análise e Desenvolvimento de Sistemas  
 
 ---
 
-## 🚀 Tecnologias & Habilidades
+## 🧠 Sobre mim
 
-- Java (Spring Boot)  
-- Node.js (Express)  
-- Python  
-- APIs REST  
-- SQL / H2 Database  
-- Git & GitHub  
-- Lógica de Programação  
-- Noções de Redes e Suporte Técnico  
+- 💡 Apaixonado por tecnologia e desenvolvimento backend  
+- ⚙️ Experiência prática com APIs REST e lógica de negócio  
+- 🛠️ Conhecimento em suporte técnico (hardware, redes e sistemas)  
+- 🎯 Buscando primeira oportunidade como Dev, QA ou Suporte TI  
+
+---
+
+## 🚀 Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,git,github,mysql" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SanTuszz&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTuszz&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Streak (consistência)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SanTuszz&theme=tokyonight" />
+</p>
 
 ---
 
 ## ⭐ Projetos em destaque
 
 ### 🚚 Smart Delivery API (Java + Spring Boot)
-Sistema de entrega inteligente com seleção de entregadores baseada em localização.  
-
 🔗 https://github.com/SanTuszz/smart-delivery-api  
 
 ✔ API REST com Java e Spring Boot  
-✔ Estrutura em camadas (Controller, Service, Repository)  
+✔ Arquitetura em camadas (Controller, Service, Repository)  
 ✔ Integração com banco H2  
-✔ Lógica de seleção inteligente de entregadores  
+✔ Lógica inteligente de seleção de entregadores  
 
 ---
 
 ### 📦 API de Pedidos (Node.js)
-Sistema de pedidos com API em Node.js.  
-
 🔗 https://github.com/SanTuszz/api-pedidos  
 
 ✔ Criação e listagem de pedidos  
-✔ Estrutura backend com Express  
+✔ Backend com Express  
 ✔ Organização de rotas  
 
 ---
 
-### 📊 Projetos em Python
+### 🐍 Projetos em Python
 
-🔗 Controle de Estoque  
-https://github.com/SanTuszz/controle-estoque-python  
-
-🔗 Controle Financeiro  
-https://github.com/SanTuszz/controle-financeiro-python  
-
-🔗 Gerenciador de Tarefas  
-https://github.com/SanTuszz/todo-list-python  
+- Controle de Estoque  
+- Controle Financeiro  
+- Gerenciador de Tarefas  
 
 ---
 
 ## 💼 Objetivo
 
-Busco minha primeira oportunidade na área de tecnologia como:
+Busco oportunidade como:
 
-- Desenvolvedor Backend Júnior  
-- Suporte Técnico / Help Desk  
-- Analista de Testes (QA)  
+- 💻 Desenvolvedor Backend Júnior  
+- 🧪 Analista de Testes (QA)  
+- 🛠️ Suporte Técnico / Help Desk  
 
 ---
 
 ## 📫 Contato
 
 📧 douglasrobertsantos2000@hotmail.com  
-🌐 https://www.linkedin.com/in/douglasrobertsantoss/
 📲 +55 19 99829-5501  
-💼 GitHub: https://github.com/SanTuszz  
+🌐 https://www.linkedin.com/in/douglasrobertsantoss/
 
 ---
 
-> 🚀 Focado em backend, APIs e crescimento constante na área de tecnologia.
+## 👀 Visualizações
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SanTuszz&color=blue" />
+</p>
+
+---
+
+⭐ Obrigado por visitar meu perfil!
