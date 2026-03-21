@@ -3,7 +3,7 @@
 # 👋 E aí! Eu sou o Douglas Santos
 
 💻 Desenvolvedor Backend em formação  
-🚀 Focado em Java • Spring Boot • APIs REST  
+🚀 Python • Java • Spring Boot • APIs REST  
 📚 Estudante de Análise e Desenvolvimento de Sistemas  
 
 ---
