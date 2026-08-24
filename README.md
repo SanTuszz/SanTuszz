@@ -13,28 +13,30 @@
 
 ## 🧠 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou direcionando minha carreira para a área de **Salesforce, Inteligência Artificial e automação de processos**.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou direcionando minha carreira para o ecossistema **Salesforce**, com foco em **CRM, automação de processos e Inteligência Artificial**.
 
-Venho desenvolvendo conhecimentos práticos através do **Salesforce Trailhead** e de projetos em **Salesforce Developer Org**, explorando conceitos de CRM, administração, automação, Flow, modelagem de dados e desenvolvimento.
+Venho desenvolvendo conhecimentos práticos através do **Salesforce Trailhead** e de projetos em **Salesforce Developer Org**, enquanto fortaleço minha base em programação, bancos de dados e desenvolvimento de APIs.
 
-Também possuo experiência prática em desenvolvimento backend, trabalhando com APIs REST, lógica de negócio, bancos de dados e diferentes tecnologias de programação.
+Também possuo experiência prática com desenvolvimento backend utilizando **Python, Java, Spring Boot, Node.js e APIs REST**, além de conhecimentos em SQL, Git e GitHub.
 
-Meu objetivo é unir **desenvolvimento, CRM, automação e Inteligência Artificial** para construir soluções que resolvam problemas reais de negócio.
+Tenho especial interesse em unir **Salesforce, desenvolvimento, automação e Inteligência Artificial** para criar soluções que resolvam problemas reais de negócio.
 
-🎯 Atualmente, busco minha primeira oportunidade profissional no ecossistema Salesforce, especialmente em posições de **Salesforce Admin, Salesforce Developer Jr., CRM, automação ou áreas relacionadas a IA e Agentforce**.
+🎯 Meu objetivo é ingressar profissionalmente na área de tecnologia, com foco em oportunidades relacionadas a **Salesforce, CRM, automação, desenvolvimento e IA**.
 
 ---
 
 ## ☁️ Salesforce
 
-Atualmente estou desenvolvendo conhecimentos em:
+Atualmente estou desenvolvendo conhecimentos no ecossistema Salesforce através do Trailhead e de projetos práticos.
+
+### Principais áreas de estudo
 
 * Salesforce Administration
 * Salesforce CRM
 * Salesforce Flow
 * Automação de processos
 * Objects & Fields
-* Data Modeling
+* Relacionamentos e Data Modeling
 * Reports & Dashboards
 * Users, Profiles & Permission Sets
 * Apex
@@ -49,16 +51,18 @@ https://www.salesforce.com/trailblazer/douglasrobertsantos
 
 ## 🤖 Inteligência Artificial & Automação
 
-Tenho interesse em utilizar IA e automação para transformar processos repetitivos em soluções mais inteligentes e eficientes.
+Tenho interesse em utilizar **Inteligência Artificial e automação** para transformar processos repetitivos em soluções mais inteligentes e eficientes.
 
-### Estudos atuais
+### Estudos e interesses
 
 * AI Fundamentals
 * Azure AI
 * Agentforce
+* Inteligência Artificial
 * Automação de processos
-* Python aplicado à automação
+* Python para automação
 * APIs e integração de sistemas
+* CRM inteligente
 
 ---
 
@@ -70,9 +74,9 @@ Tenho interesse em utilizar IA e automação para transformar processos repetiti
 
 ### Salesforce
 
-`Salesforce` `Flow` `Apex` `SOQL` `CRM` `Agentforce`
+`Salesforce` `CRM` `Flow` `Apex` `SOQL` `Agentforce`
 
-### Backend & Desenvolvimento
+### Backend
 
 `Python` `Java` `Spring Boot` `Node.js` `Express` `REST APIs`
 
@@ -82,24 +86,21 @@ Tenho interesse em utilizar IA e automação para transformar processos repetiti
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos em Destaque
 
 ### ☁️ Salesforce CRM, Automation & AI
 
-Projeto prático desenvolvido em **Salesforce Developer Org**, explorando CRM, automação de processos, gerenciamento de dados e recursos relacionados à Inteligência Artificial.
+Projeto prático desenvolvido em **Salesforce Developer Org**, com foco em CRM, automação de processos, gerenciamento de dados e exploração de recursos relacionados à Inteligência Artificial.
 
-**Foco:**
+### 🎯 Objetivos
 
-* Salesforce CRM
-* Custom Objects & Fields
-* Relacionamentos
-* Data Modeling
-* Flow
-* Automação
-* Reports & Dashboards
-* Apex
-* SOQL
-* Agentforce
+* Aplicar conceitos de Salesforce Administration
+* Trabalhar com objetos e relacionamentos
+* Criar automações utilizando Flow
+* Trabalhar com dados e estrutura de CRM
+* Criar Reports e Dashboards
+* Explorar desenvolvimento com Apex e SOQL
+* Estudar aplicações de IA e Agentforce
 
 > 🚧 Projeto em desenvolvimento
 
@@ -111,14 +112,16 @@ Projeto prático desenvolvido em **Salesforce Developer Org**, explorando CRM, a
 
 🔗 https://github.com/SanTuszz/smart-delivery-api
 
-API REST desenvolvida para gerenciamento e lógica de entregas.
+API REST desenvolvida para gerenciamento de entregas e aplicação de regras de negócio.
 
-**Principais recursos:**
+### Principais recursos
 
+* API REST
+* Java
+* Spring Boot
 * Arquitetura em camadas
 * Controller / Service / Repository
-* API REST
-* Banco H2
+* Banco de dados H2
 * Lógica de negócio
 * Gerenciamento de entregadores
 
@@ -130,76 +133,81 @@ API REST desenvolvida para gerenciamento e lógica de entregas.
 
 🔗 https://github.com/SanTuszz/api-pedidos
 
-Backend desenvolvido para gerenciamento de pedidos.
+Backend desenvolvido para gerenciamento de pedidos através de uma API REST.
 
-**Principais recursos:**
+### Principais recursos
 
 * Criação de pedidos
 * Listagem de pedidos
 * Rotas REST
-* Organização de endpoints
 * Express
+* Organização de endpoints
+* Estrutura de backend
 
 ---
 
 ### 🐍 Projetos Python
 
-Projetos desenvolvidos durante meus estudos de Python, explorando lógica de programação e construção de aplicações.
+Projetos desenvolvidos durante meus estudos de Python, com foco em lógica de programação e construção de aplicações.
+
+### Projetos
 
 * Controle de Estoque
 * Controle Financeiro
 * Gerenciador de Tarefas
-* Automação e scripts
+* Scripts e automações
 
 ---
 
-## 📚 Formação & Certificações
+## 📚 Formação
 
-🎓 **Análise e Desenvolvimento de Sistemas**
+### 🎓 Análise e Desenvolvimento de Sistemas
+
+**Estudante de ADS**
 Previsão de conclusão: **Novembro de 2026**
 
-### Cursos recentes
+Formação com estudos em:
 
-🏆 **AI-900 — Fundamentos de IA no Azure** — 16h
-
-🏆 **Linguagem de Programação Python — Básico** — 18h
-
-🏆 **Administrando Banco de Dados** — 15h
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=SanTuszz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SanTuszz&layout=compact&theme=tokyonight&hide_border=true" 
-  />
-</p>
+* Programação
+* Desenvolvimento de Software
+* Banco de Dados
+* APIs
+* Engenharia de Software
+* Desenvolvimento Web
+* Inteligência Artificial
+* Estruturas de Dados
 
 ---
 
-## 🔥 Consistência
+## 🏆 Certificações & Cursos
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SanTuszz&theme=tokyonight" />
-</p>
+### 🤖 AI-900 — Fundamentos de IA no Azure
+
+**Escola Virtual**
+16 horas — 2026
+
+### 🐍 Linguagem de Programação Python — Básico
+
+**Escola Virtual**
+18 horas — 2026
+
+### 🗄️ Administrando Banco de Dados
+
+**Escola Virtual**
+15 horas — 2026
 
 ---
 
 ## 🎯 Objetivo profissional
 
-Busco minha primeira oportunidade profissional em tecnologia, com foco principalmente em:
+Estou buscando minha primeira oportunidade profissional em tecnologia, com interesse principalmente em:
 
 ☁️ **Salesforce Administrator**
 💻 **Salesforce Developer Jr.**
-🤖 **AI & Automation**
 📊 **CRM / Salesforce Analyst**
 ⚙️ **Automação de Processos**
+🤖 **AI & Automation**
+💻 **Desenvolvimento Backend**
 
 ---
 
@@ -210,8 +218,11 @@ Busco minha primeira oportunidade profissional em tecnologia, com foco principal
 💼 **LinkedIn:**
 https://www.linkedin.com/in/douglasrobertsantoss/
 
-☁️ **Trailblazer:**
+☁️ **Salesforce Trailblazer:**
 https://www.salesforce.com/trailblazer/douglasrobertsantos
+
+💻 **GitHub:**
+https://github.com/SanTuszz
 
 ---
 
